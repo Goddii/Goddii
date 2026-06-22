@@ -26,7 +26,7 @@ A full-stack marketplace for broken, second-hand, and repairable electronics —
 - Buyer/seller roles with JWT auth, listing CRUD, search/filter/sort, and a full **M-Pesa STK Push checkout flow** with payment callbacks and order status polling
 - Real-world payment lifecycle: OAuth token → STK Push → callback → order completion → listing marked sold
 
-#### 🚚 [NextFleet](https://github.com/Goddii/fleet-management-hub) — Fleet Management System
+#### 🚚 [NextFleet](https://github.com/Goddii/NextFleet) — Fleet Management System
 A role-based fleet management web app for tracking trucks, drivers, jobs, and maintenance.
 - **Stack:** Flask · MySQL · Jinja2 · Chart.js
 - Manager/driver RBAC, mileage & fuel tracking with charts, image upload pipeline with location tagging, full job management CRUD
