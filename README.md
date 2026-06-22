@@ -74,9 +74,9 @@ A frontend project for browsing and viewing movie info with a clean, responsive 
 ### 📫 Let's Connect
 
 <!-- Add your real links below -->
-- 💼 LinkedIn: [add your link]
-- ✉️ Email: [add your email]
-- 🌐 Portfolio: [add your Portfolio-Website link]
+- 💼 LinkedIn: 
+- ✉️ Email: otienogodwin23@gmail.com
+- 🌐 Portfolio: 
 
 ---
 
